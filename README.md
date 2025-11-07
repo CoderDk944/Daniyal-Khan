@@ -3,7 +3,7 @@
 🎯 **SQL Developer | Data Engineer (in progress)**  
 💻 Passionate about building efficient data systems, writing optimized SQL queries, and automating ETL workflows.  
 📍 Based in Karachi, Pakistan  
-📧 Contact: [your.email@example.com](mailto:daniyal_khan91@yahoo.com)  
+📧 Contact: (daniyal_khan91@yahoo.com)  
 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/daniyal-khan94/)  
 🐙 GitHub: [github.com/DaniyalKhan](https://github.com/CoderDk944)
 
