@@ -1,13 +1,11 @@
-# Daniyal-Khan
-
 # 👋 Hi, I'm Daniyal Khan
 
-🎯 **SQL Developer | Data Engineer | Database Administrator (in progress)**  
+🎯 **SQL Developer | Data Engineer (in progress)**  
 💻 Passionate about building efficient data systems, writing optimized SQL queries, and automating ETL workflows.  
 📍 Based in Karachi, Pakistan  
-📧 Contact: [daniyal_khan91@yahoo.com]  
-🔗 LinkedIn: https://www.linkedin.com/in/daniyal-khan94/ 
-🐙 GitHub: [github.com/DaniyalKhan](https://github.com/DaniyalKhan)
+📧 Contact: [your.email@example.com](mailto:daniyal_khan91@yahoo.com)  
+🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/daniyal-khan94/)  
+🐙 GitHub: [github.com/DaniyalKhan](https://github.com/CoderDk944)
 
 ---
 
@@ -50,7 +48,11 @@
 
 ---
 
+
+
+---
+
 ### ✨ Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/daniyal-khan94/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/DaniyalKhan)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/daniyal-khan94/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/CoderDk944)
+
