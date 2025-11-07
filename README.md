@@ -22,7 +22,7 @@
 |-----------|--------|
 | **Databases** | SQL Server, PostgreSQL, MySQL |
 | **ETL / Data Tools** | SSIS, Talend, dbt, Airflow |
-| **Programming** | SQL, Python, Shell |
+| **Programming** | SQL, Python |
 | **Cloud Platforms** | Azure, AWS |
 | **Version Control** | Git, GitHub |
 
